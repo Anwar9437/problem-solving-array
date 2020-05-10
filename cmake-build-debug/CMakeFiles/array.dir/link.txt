@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/array.dir/count_Frequency.c.o CMakeFiles/array.dir/test.c.o  -o array 
