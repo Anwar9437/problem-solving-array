@@ -1,5 +1,5 @@
 # problem-solving-array
 
-## Data structures
+## Array
 
  - [Sum Average](sum_Average.c)
