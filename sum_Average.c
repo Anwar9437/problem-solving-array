@@ -14,7 +14,7 @@ int main(){
         sum = sum + a[i];
     }
     for (int i = 0; i < n; i++) {
-        printf(" %d. Enter number : %f \n", i+1, a[i]);
+        printf(" %d. Enter your number : %f \n", i+1, a[i]);
 
     }
     printf("\n");
