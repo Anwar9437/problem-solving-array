@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/array.dir/count_Frequency.c.o  -o array 
