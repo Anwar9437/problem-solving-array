@@ -2,4 +2,4 @@
 
 ## Data structures
 
- - [Sum Average](problem-solving-array/sum_Average.c)
+ - [Sum Average](sum_Average.c)
