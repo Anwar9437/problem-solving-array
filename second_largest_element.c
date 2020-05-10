@@ -15,7 +15,6 @@ int main(){
             max2 = max1;
             max1 = a[i];
         }
-
     }
 
     printf("1st Maximum = %d", max1);
