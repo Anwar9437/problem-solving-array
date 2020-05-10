@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/home/eimon/CLionProjects/array/count_Frequency.c" "/home/eimon/CLionProjects/array/cmake-build-debug/CMakeFiles/array.dir/count_Frequency.c.o"
+  "/home/eimon/CLionProjects/array/test.c" "/home/eimon/CLionProjects/array/cmake-build-debug/CMakeFiles/array.dir/test.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

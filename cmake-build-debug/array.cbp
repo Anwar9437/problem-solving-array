@@ -84,6 +84,9 @@
 		<Unit filename="/home/eimon/CLionProjects/array/count_Frequency.c">
 			<Option target="array"/>
 		</Unit>
+		<Unit filename="/home/eimon/CLionProjects/array/test.c">
+			<Option target="array"/>
+		</Unit>
 		<Unit filename="/home/eimon/CLionProjects/array/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

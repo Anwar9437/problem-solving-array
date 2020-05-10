@@ -30,7 +30,7 @@ int main()
             if(j>i) printf("%d ", j);
             else printf("%d ", i);
         }
-        printf("\n");
+        printf("\n \n");
     }
 
     return 0;

@@ -2,7 +2,7 @@
 int main(){
     int n;
     float sum=0,average;
-    printf(" How many number :");
+    printf(" How many numbers :");
     scanf("%d", &n);
     float a[n];
     for (int i = 0; i < n ; i++) {

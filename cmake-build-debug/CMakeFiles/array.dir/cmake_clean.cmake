@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/array.dir/count_Frequency.c.o"
+  "CMakeFiles/array.dir/test.c.o"
   "array"
   "array.pdb"
 )
