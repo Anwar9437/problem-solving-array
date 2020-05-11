@@ -9,18 +9,19 @@ int main() {
         scanf("%d", &array[i]);
     }
     for (int i = 0; i < n; i++) {
-        count = 1;
+          count = 1;
         if (array[i] != -1) {
 
-            for (int j = i + 1; j < n; j++) {
+            for (int j = i + 1; j <=n; j++) {
                 if (array[i] == array[j]) {
 
                     count++;
 
                     array[j] = -1;
-
-                    freq[i] = count;
                 }
+                {
+                    freq[i] = count;
+                    }
             }
 
         }
