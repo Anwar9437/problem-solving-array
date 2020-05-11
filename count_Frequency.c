@@ -23,10 +23,9 @@ int main() {
             }
 
         }
-
-
     }
-    for (int k = 0; k < n ; ++k) {
+
+    for (int k = 0; k < n ; k++) {
         if(array[k]!=-1){
             printf("no of %d is %d\n", array[k],freq[k]);
         }
