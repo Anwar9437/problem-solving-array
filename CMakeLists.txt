@@ -3,4 +3,4 @@ project(array C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(array duplicateElements.c cmake-build-debug )
+add_executable(array fibonacci.c cmake-build-debug )
