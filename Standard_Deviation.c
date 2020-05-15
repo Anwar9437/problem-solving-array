@@ -7,7 +7,9 @@ int main()
     float price[50];
     int i,number;
     float sum=0, mean, varsum =0, differ,variance, SD;
+    printf("\nPlease Enter the N Value\n");
     scanf("%d", &number);
+    printf("\nPlease Enter %d real numbers\n", number);
     for(i=0; i<number ; i++)
     {
         scanf("%f", &price[i]);
