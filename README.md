@@ -19,3 +19,4 @@
  - [Count Total Number Of Duplicate Elements](duplicateElements.c)
  - [Delete Duplicate Elements](deleteDuplicateElements.c)
  - [Fibonacci Number Series](fibonacci.c)
+ - [Calculate The Standard Deviation](Standard_Deviation.c)
