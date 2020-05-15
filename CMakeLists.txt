@@ -3,4 +3,4 @@ project(array C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(array deleteDuplicateElements.c cmake-build-debug )
+add_executable(array Standard_Deviation.c cmake-build-debug )
