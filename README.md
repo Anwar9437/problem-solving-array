@@ -2,7 +2,7 @@
 
 ## Array
 
- - [Sum Average](sum_Average.c)
+ - [Sum Average](/array/sum_Average.c)
  - [Second Largest Element](second_largest_element.c)
  - [Print All Negative Number](print_all_negative.c)
  - [Maximum And Minimum](maximum_and_minimun.c)
