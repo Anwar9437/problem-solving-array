@@ -1,4 +1,4 @@
-# problem-solving-array
+# problem-solving
 
 ## Array
 
@@ -20,3 +20,7 @@
  - [Delete Duplicate Elements](/array/deleteDuplicateElements.c)
  - [Fibonacci Number Series](/array/fibonacci.c)
  - [Calculate The Standard Deviation](/array/Standard_Deviation.c)
+ 
+## For loop
+
+- [Prime Number](/for_loop/primeNumber.c)
