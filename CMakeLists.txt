@@ -3,5 +3,5 @@ project(problem-solving C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(problem-solving string/string_input.c cmake-build-debug )
+add_executable(problem-solving string/review cmake-build-debug )
 
