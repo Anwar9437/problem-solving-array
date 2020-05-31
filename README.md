@@ -21,6 +21,8 @@
  - [Fibonacci Number Series](/array/fibonacci.c)
  - [Calculate The Standard Deviation](/array/Standard_Deviation.c)
  - [Matrix Multiplication](/array/matrixMultiplication.c)
+ - [Digit Frequency](/array/digitFrequency.c)
+
 ## For loop
 
 - [Prime Number](/for_loop/primeNumber.c)
