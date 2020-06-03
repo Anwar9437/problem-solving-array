@@ -29,6 +29,7 @@
 
 ## String
 
-- [String Input And Output](/string/string_input.c)
-- [Review](/string/review.c)
+ - [String Input And Output](/string/string_input.c)
+ - [Review](/string/review.c)
+ - [Reverse String](/string/reverseString.c)
 
