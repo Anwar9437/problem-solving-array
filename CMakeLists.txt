@@ -3,5 +3,5 @@ project(problem-solving C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(problem-solving  array/digitFrequency.c cmake-build-debug )
+add_executable(problem-solving  string/reverseString.c cmake-build-debug )
 
