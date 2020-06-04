@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 int main(){
-    char a[100],b[100];
+    char a[100];
     int i=0,count=0;
     gets(a);
     while (a[i]!='\0'){
