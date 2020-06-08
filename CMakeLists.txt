@@ -3,5 +3,5 @@ project(problem-solving C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(problem-solving  string/stringCpy.c cmake-build-debug string/stringCompare.c)
+add_executable(problem-solving   string/stringCompare.c cmake-build-debug )
 

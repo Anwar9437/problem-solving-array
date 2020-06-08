@@ -29,11 +29,21 @@
 
 ## String
 
- - [String Input And Output](/string/string_input.c)
- - [Review](/string/review.c)
- - [Reverse String](/string/reverseString.c)
- - [Change Uppercase String Without strupr](/string/stringUppercase.c)
- - [Change Lowercase String Without strlwr](/string/stringLowercase.c)
- - [String Length](/string/stringLength.c)
- - [String Copy Without Strcpy](/string/stringCpy.c)
+ - [Input And Output](/string/string_input.c)
+ - [Hacker Rank Review Problem](/string/review.c)
+ 
+ 
+## String without using built in function
+ 
+ - [Length](/string/stringLength.c)
+ - [Change Lowercase](/string/stringLowercase.c)
+ - [Change Uppercase](/string/stringUppercase.c)
+ - [Concatenate](/string/concatString.c)
+ - [Compare](/string/stringCompare.c)
+ - [Copy](/string/stringCpy.c)
+ - [Reverse ](/string/reverseString.c)
+ 
+ 
+ 
+ 
 
