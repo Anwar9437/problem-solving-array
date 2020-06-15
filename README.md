@@ -40,6 +40,7 @@
  - [Change Uppercase](/string/stringUppercase.c)
  - [Concatenate](/string/concatString.c)
  - [Compare](/string/stringCompare.c)
+ - [Compare (Same or not Same)](/string/compareString.c)
  - [Copy](/string/stringCpy.c)
  - [Reverse ](/string/reverseString.c)
  
