@@ -44,6 +44,17 @@
  - [Copy](/string/stringCpy.c)
  - [Reverse ](/string/reverseString.c)
  
+ # function
+ 
+ ##String 
+ - [Length](/function/lengthFunction.c)
+ - [Change Lowercase](/function/lowercaseFunction.c)
+ - [Change Uppercase](/function/uppercaseFunction.c)
+ - [Concatenate](/function/concatFunction.c)
+ - [Compare](/function/compareFunction.c)
+ - [Copy](/function/copyFunction.c)
+ - [Reverse ](/function/reverseFunction.c)
+ 
  
  
  
