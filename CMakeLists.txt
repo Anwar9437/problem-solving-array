@@ -3,5 +3,5 @@ project(problem-solving C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(problem-solving function/reverseFunction.c cmake-build-debug )
+add_executable(problem-solving function/uppercaseFunction.c cmake-build-debug )
 
