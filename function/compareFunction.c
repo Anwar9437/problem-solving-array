@@ -1,7 +1,7 @@
 #include<stdio.h>
 void compare(char *str1, char *str2);
 int main(){
-    char str1[30], str2[30];
+    char str1[30] , str2[30];
 
 
     printf("Enter two strings :");
