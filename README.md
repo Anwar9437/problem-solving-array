@@ -30,6 +30,7 @@
 ## String
 
  - [Input And Output](/string/string_input.c)
+ - [Toggle Case](/string/toggleCase.c)
  - [Hacker Rank Review Problem](/string/review.c)
  
  
