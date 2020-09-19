@@ -56,6 +56,8 @@
  - [Copy](/function/copyFunction.c)
  - [Reverse ](/function/reverseFunction.c)
  
+ ##Recursion
+ - [factorial](/Recursion/factorial.c)
  
  
  
