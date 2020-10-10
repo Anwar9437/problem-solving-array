@@ -60,7 +60,7 @@
  - [factorial](/Recursion/factorial.c)
  
  # Structure and Union
- - [Student information](problem-solving/Structure and Union/Assignment-03/informationStudent.c)
+ - [Student information](problem-solving/StructureandUnion/Assignment-03/informationStudent.c)
  
  
  
